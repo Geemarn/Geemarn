@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Geemarn
+- 👋 Hi, I’m Adegoke
 - 👀 I’m interested in solving probelms
