@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Adegoke
-- 👀 I’m interested in solving probelms
+- 👀 I’m interested in solving probelms using Javascript, python and dart.
