@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Adegoke
 - 👀 I’m interested in solving probelms using Javascript, python and dart.
-- 😀 Feel free to reach ot to mee on adegokeadetunji01@gmail.com
+- 😀 Feel free to reach ot to me on adegokeadetunji01@gmail.com
